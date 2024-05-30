@@ -1,11 +1,11 @@
 **INVSTO ASSIGNMENT**
 
-```markdown
+
 # Frontend Mentor - QR code component solution
 
 This is a solution to the [QR code component challenge on Frontend Mentor given by Invsto](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Table of contents
+### Table of contents
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
@@ -18,11 +18,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor given 
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-## Overview
+### Overview
 
 ### Screenshot
 
-![Screenshot](./screenshot.jpg)
+![@Screenshot](./screenshot.jpg)
 
 ### Links
 
@@ -38,9 +38,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor given 
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Styled Components](https://styled-components.com/) - For styles
-- [Redux](https://redux.js.org/) - For state management
+- [@React](https://reactjs.org/) - JS library
+- [@Styled Components](https://styled-components.com/) - For styles
+- [@Redux](https://redux.js.org/) - For state management
 
 Certainly! Here's the updated content with specific learnings from the project:
 
