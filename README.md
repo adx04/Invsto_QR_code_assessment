@@ -8,7 +8,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor given 
 ### Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -20,14 +20,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor given 
 
 ### Overview
 
-### Screenshot
+### Screenshots
 
 ![@click here](https://drive.google.com/drive/folders/1DEnwELynn2JfNk8oXYNDLk8DsJrSW2A1?usp=sharing)
 
 ### Links
 
 - Solution URL: [@here](https://github.com/adx04/Invsto_QR_code_assessment)
-- Live Site URL: [@here](https://your-live-site-url.com)
+- Live Site URL: [@here](https://adx04.github.io/Invsto_QR_code_assessment)
 
 ## My process
 
@@ -171,7 +171,7 @@ By focusing on these areas, I aim to build more dynamic, responsive, and high-pe
 
 ## Author
 - Ayush Dey
-- Website - [@Invsto_Assignment]
+- Website - [@Invsto_Assignment](https://adx04.github.io/Invsto_QR_code_assessment)
 - Linkedin - [@Ayush Dey](https://www.linkedin.com/in/ayush-dey-36919825a/)
 - Hackerrank - [@adx04](https://www.hackerrank.com/profile/adx04))
 
