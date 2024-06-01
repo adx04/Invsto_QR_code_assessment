@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Invsto_QR_code_assessment/static/js/main.c83adedf.js",
+    "main.js": "/Invsto_QR_code_assessment/static/js/main.d78edcfd.js",
     "index.html": "/Invsto_QR_code_assessment/index.html",
-    "main.c83adedf.js.map": "/Invsto_QR_code_assessment/static/js/main.c83adedf.js.map"
+    "main.d78edcfd.js.map": "/Invsto_QR_code_assessment/static/js/main.d78edcfd.js.map"
   },
   "entrypoints": [
-    "static/js/main.c83adedf.js"
+    "static/js/main.d78edcfd.js"
   ]
 }
