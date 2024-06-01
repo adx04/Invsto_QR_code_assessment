@@ -9,10 +9,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor given 
 
 - [Overview](#overview)
   - [Screenshots](#screenshots)
-  - [Links](#links)
+  - [Solution](#links)
 - [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+  - [Languages/Frameworks Used](#languages-/-frameworks-used)
+  - [ Key learning & Takeaways](#key-learning-&-takeaways)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
@@ -24,14 +24,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor given 
 
 [click here](https://drive.google.com/drive/folders/1DEnwELynn2JfNk8oXYNDLk8DsJrSW2A1?usp=sharing)
 
-### Links
+### Solution
 
-- Solution URL: [@here](https://github.com/adx04/Invsto_QR_code_assessment)
-- Live Site URL: [@here](https://adx04.github.io/Invsto_QR_code_assessment)
+- Solution URL: [here](https://github.com/adx04/Invsto_QR_code_assessment)
+- Live Site URL: [here](https://adx04.github.io/Invsto_QR_code_assessment)
 
 ## My process
 
-### Built with
+### Languages/Frameworks Used
 
 - Semantic HTML5 markup
 - CSS custom properties
@@ -44,7 +44,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor given 
 
 Certainly! Here's the updated content with specific learnings from the project:
 
-### What I learned
+### Key learning & Takeaways
 
 This project reinforced my understanding of creating responsive designs and integrating state management with Redux. I learned how to use styled-components to create dynamic styles and how to implement a dark mode toggle using Redux for state management. Additionally, I explored advanced CSS animations, such as the cyberlight hover effect, to enhance user interactions.
 
@@ -133,8 +133,6 @@ Here are some of the key code snippets that illustrate what I learned:
    `;
    ```
 
-These learnings have improved my ability to create dynamic, responsive, and visually appealing web applications using React, Redux, and styled-components.
-
 
 ### Continued development
 
@@ -161,7 +159,6 @@ I plan to focus on several key areas to enhance my skills:
     - **Hover Effects**: Implementing engaging hover effects like the cyberlight effect to make the interface more interactive.
     - **User Experience Enhancements**: Using animations to provide visual feedback and improve interactivity.
 
-By focusing on these areas, I aim to build more dynamic, responsive, and high-performing applications that offer an excellent user experience.
 
 ### Useful resources
 
@@ -173,11 +170,8 @@ By focusing on these areas, I aim to build more dynamic, responsive, and high-pe
 - Ayush Dey
 - Website - [@Invsto_Assignment](https://adx04.github.io/Invsto_QR_code_assessment)
 - Linkedin - [@Ayush Dey](https://www.linkedin.com/in/ayush-dey-36919825a/)
-- Hackerrank - [@adx04](https://www.hackerrank.com/profile/adx04))
+- Hackerrank - [@adx04](https://www.hackerrank.com/profile/adx04)
 
-## Acknowledgments
-
-Certainly! Here's the improved acknowledgment section:
 
 ## Acknowledgments
 
